@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "welcome": "Welcome!",
+  "welcomeSubtitle": " Here will be short info about the app",
+  "onboardingTitle": "Subscription required",
+  "onboardingSubtitle": "To access the main screen and all app features, you need an active subscription.\nChoose a plan on the next screen.",
+  "homeTitle": "Home Screen",
+  "feature1Title": "First Feature",
+  "feature1Subtitle": "Description of the first feature",
+  "feature2Title": "Second Feature",
+  "feature2Subtitle": "Description of the second feature",
+  "feature3Title": "Third Feature",
+  "feature3Subtitle": "Description of the third feature",
+  "yearly": "Yearly",
+  "monthly": "Monthly",
+  "next": "Next",
+  "continueOn": "Continue",
+  "buySubscription": "Buy subscription",
+  "discount": "Discount",
+  "cancelSubscription": "Cancel subscription"
+}
